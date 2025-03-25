@@ -1,0 +1,18 @@
+current directory: /Users/vinayakbirajdar/Documents/Todo/vendor/bundle/ruby/3.4.0/gems/nkf-0.2.0/ext/nkf
+/usr/local/opt/ruby/bin/ruby extconf.rb
+creating Makefile
+
+current directory: /Users/vinayakbirajdar/Documents/Todo/vendor/bundle/ruby/3.4.0/gems/nkf-0.2.0/ext/nkf
+make DESTDIR\= sitearchdir\=./.gem.20250325-40562-j4qgda sitelibdir\=./.gem.20250325-40562-j4qgda clean
+
+current directory: /Users/vinayakbirajdar/Documents/Todo/vendor/bundle/ruby/3.4.0/gems/nkf-0.2.0/ext/nkf
+make DESTDIR\= sitearchdir\=./.gem.20250325-40562-j4qgda sitelibdir\=./.gem.20250325-40562-j4qgda
+compiling nkf.c
+linking shared-object nkf.bundle
+
+current directory: /Users/vinayakbirajdar/Documents/Todo/vendor/bundle/ruby/3.4.0/gems/nkf-0.2.0/ext/nkf
+make DESTDIR\= sitearchdir\=./.gem.20250325-40562-j4qgda sitelibdir\=./.gem.20250325-40562-j4qgda install
+/usr/bin/install -c -m 0755 nkf.bundle ./.gem.20250325-40562-j4qgda
+
+current directory: /Users/vinayakbirajdar/Documents/Todo/vendor/bundle/ruby/3.4.0/gems/nkf-0.2.0/ext/nkf
+make DESTDIR\= sitearchdir\=./.gem.20250325-40562-j4qgda sitelibdir\=./.gem.20250325-40562-j4qgda clean
